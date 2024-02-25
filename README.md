@@ -9,7 +9,7 @@ from the website, you need to download 2 datasets for this project.
 this system is built by using these techniques:
 
 1) Basic cut
-     > Top 50 books with best book_average_rating
+      Top 50 books with best book_average_rating
      > Top 50 concised books
      > Top 50 e-books
      > Books having similar book title
